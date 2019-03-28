@@ -1,3 +1,6 @@
+#ifndef __SIMPLELOG_H 
+#define __SIMPLELOG_H 
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -33,4 +36,4 @@ typedef struct  log
 
 }PLOG;
 
-
+#endif
