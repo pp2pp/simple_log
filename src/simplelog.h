@@ -6,6 +6,7 @@
 #include <string.h>
 #include <errno.h>
 #include <time.h>
+
 #define  LOG_PATH_LEN_MAX  1024 // 文件路径最大长度
 #define  LOG_NAME_LEN_MAX  128  // 文件名最大长度
 
