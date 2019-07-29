@@ -1,0 +1,2 @@
+/root/src/simple_log/src/CMakeFiles/SimpleLog.dir
+/root/src/simple_log/test/CMakeFiles/demo.dir
